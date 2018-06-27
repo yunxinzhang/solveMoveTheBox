@@ -1,0 +1,9 @@
+#（请勿删除）解最大步数&行数&列数	
+3	7 7
+...g...
+...mg..
+..ggm.j
+..mwggj
+.ggwiiw
+.wwiwjj
+giiwjjw
